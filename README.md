@@ -142,13 +142,13 @@ An interactive dashboard with a cover page and six views, navigated with tabs, p
 | **Recommendations** | Ranked opportunities for a chosen budget |
 | **About** | Method, definitions and limitations |
 
-![Overview](images/overview.png)
-![Prices](images/prices.png)
-![Trends](images/trends.png)
-![Investment](images/investment.png)
-![Recommendations](images/recommendations.png)
+![Overview](images/overview.png.png)
+![Prices](images/prices.png.png)
+![Trends](images/trends.png.png)
+![Investment](images/investment.png.png)
+![Recommendations](images/recommendations.png.png)
 
-🎥 **Demo:** [Watch the project walkthrough](ADD-YOUR-LINKEDIN-OR-VIDEO-LINK-HERE)
+🎥 **Demo:** [Watch the project walkthrough](images/WhatsApp Video 2026-10-21 at 8.45.57 AM)
 
 ### 6. ACT
 
