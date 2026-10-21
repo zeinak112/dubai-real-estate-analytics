@@ -2,7 +2,7 @@
 
 > **A data-driven investment case study built on real Dubai Land Department data (Jan – Sep 2026) with Python and Power BI.**
 
-![Cover](images/cover.png)
+![Cover](images/cover.png.png)
 
 ---
 
