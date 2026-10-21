@@ -1,0 +1,27 @@
+dataset,step,rows
+sales,raw rows,171028
+sales,Jan-Sep 2026 only (October is partial),165173
+sales,group = Sales (no Mortgage / Gifts),123530
+sales,usage = Residential,120284
+sales,sub type = Flat or Villa,106287
+sales,exact duplicate rows removed,106287
+sales,value > 0 and area > 0,106287
+sales,flagged is_outlier,2128
+sales,flagged is_partial_share,662
+rents,raw rows (all files),882202
+rents,Jan-Sep 2026 only,843829
+rents,usage = Residential,647067
+rents,sub type = Flat or Villa (Studio counted as Flat),560415
+rents,annual rent > 0 and area > 0,560414
+rents,single-property contracts only,529165
+rents,"flagged is_outlier (kept in file, excluded from yield)",10384
+rents,area matched by: unmapped,169346
+rents,area matched by: project,165396
+rents,area matched by: crosswalk,101024
+rents,area matched by: exact_name,93399
+yield,Ready sales used for price,25366
+yield,rent contracts used (valid + mapped area),358164
+yield,groups with both Ready sales and rents,433
+yield,groups with >= 30 Ready sales and >= 30 rents,168
+yield,gross yield within 2.0-12.0% (removed 2),166
+yield,"groups with same-project growth (>= 2 projects, >= 5 sales each in Q1 and Q3)",138
