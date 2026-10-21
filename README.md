@@ -69,7 +69,7 @@ Dubai property is a high-value, fast-moving market, and investors often decide u
 
 ### 3. PROCESS (Python)
 
-All cleaning is reproducible in one script: [`scripts/build_powerbi_tables.py`](scripts/build_powerbi_tables.py). It logs the row count after every step and **stops with an error if a quality rule is broken**.
+All cleaning is reproducible in one script: [`scripts/build_powerbi_tables.py`](build_powerbi_tables.py). It logs the row count after every step and **stops with an error if a quality rule is broken**.
 
 **Sales cleaning**
 
@@ -95,7 +95,7 @@ All cleaning is reproducible in one script: [`scripts/build_powerbi_tables.py`](
 | Single-property contracts only | **529,165** |
 | Flagged as outlier (excluded from yield) | 10,384 |
 
-**Linking rents to sales areas** (a crosswalk was built and reviewed, in [`data/processed/area_crosswalk.csv`](data/processed/area_crosswalk.csv)):
+**Linking rents to sales areas** (a crosswalk was built and reviewed, in [`data/processed/area_crosswalk.csv`](area_crosswalk.csv)):
 
 | Matched by | Contracts | Share |
 |---|---:|---:|
@@ -262,8 +262,10 @@ dubai-real-estate-investment-analysis/
 **Zeinab Khaled**
 Data Analyst | Business Information Systems Graduate
 
-Interested in **Data Analysis, Business Intelligence, SQL, Excel, Python and Power BI**.
+### 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/zeinab-khaled-9a5ab8416/)
+- **Portfolio:** https://zeinak112.github.io/my_portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/zeinab-khaled-9a5ab8416/
+- **Email:** zeinak631@gmail.com
 
 *Data source: Dubai Land Department open data. This project is not affiliated with the Dubai Land Department.*
